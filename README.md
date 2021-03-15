@@ -1,2 +1,2 @@
 # Lobby
-This is a new project
+New project for practice
