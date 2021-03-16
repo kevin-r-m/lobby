@@ -1,0 +1,52 @@
+body {
+  /* Old browsers */
+  background: #141E30;
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: -webkit-linear-gradient(90deg, #4FD5FF, #EBF68E);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(90deg, #4FD5FF, #EBF68E);
+  margin: 0;
+  padding: 0;
+  font-family: Arial;
+}
+
+.main {
+  margin: 10px;
+  padding: 5px;
+}
+
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #EBF68E;
+	display: table;
+	width: 100%;
+}
+
+nav li {
+	display: table-cell
+}
+
+li a {
+	display: block;
+	color: black;
+	text-align: center;
+	padding: 30px 30px;
+	text-decoration: none;
+}
+
+li a:hover {
+	background-color: #CDD967;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+embed {
+	width: 400px;
+	height: 458px;
+  padding:15px;
+}
